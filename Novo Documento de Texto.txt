@@ -1,0 +1,27 @@
+olá, mundo2!
+
+--Códigos usados--
+
+cd endereço da pasta que deseja por o clone
+
+git clone link do clone
+
+cd endereço da pasta do clone
+
+-- configurar o autor do commit
+
+git config -- global user.email thawan.rodrigues@sptech.school
+
+-- quando fizer alterações
+
+git add .
+
+git commit -m 'nome do commit'
+
+git push
+
+--Quando for deslogar o autor da maquina
+
+git config --global --unset user.email
+
+git config --global -unset user.nome
