@@ -1,6 +1,7 @@
 olá, mundo2!
 
 --Códigos usados--
+ls vai mostrar os arquivos do diretório em que você se encontra
 
 cd endereço da pasta que deseja por o clone
 
